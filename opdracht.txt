@@ -1,0 +1,28 @@
+Tips
+- Houd je code overzichtelijk met eventuele comments
+- Vervang de TODO-tekst met DONE wanneer deze klaar is
+
+Opdracht "Stilton"
+
+TODO 1: Voeg jouw leerkrachten toe als medewerkers van de repository
+
+TODO 2: Koppel "style.css" met "index.html"
+
+TODO 3: Gebruik als body-tekst een web safe font dat tot de generieke familie "serif" behoort
+
+TODO 4: Gebruik het lettertype "Alex Brush" in mapje "fonts" voor span-tag met class "geronimo"
+
+TODO 5: Zoek via Google Fonts naar een gepaste lettertype voor de span-tags met classes "thea" en "benjamin"
+
+TODO 6: Traceer het lettertype van Geronimo's website via WhatFont en gebruik dit Google Font voor de titel (h1)
+Link: https://geronimostilton.com/NL-ho/home/ 
+
+Uitbreiding
+
+TODO 7: Zorg bij iedere span-tag voor een gepaste kleur. Kijk eventueel in het mapje "images" voor inspiratie.
+
+TODO 8: Vergroot de regelhoogte voor de leesbaarheid te verbeteren
+
+TODO 9: Vergroot de letter-spacing bij de span-elementen voor de leesbaarheid te verbeteren
+
+TODO 10: Vergroot de tekstgrootte bij de span-elementen voor de leesbaarheid te vergroten
